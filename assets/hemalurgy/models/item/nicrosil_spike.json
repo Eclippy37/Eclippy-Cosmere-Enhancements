@@ -1,5 +1,5 @@
 {
-    "parent": "hemalurgy:item/spike",
+    "parent": "hemalurgy:item/metal_spike",
     "textures": {
         "layer0": "hemalurgy:item/nicrosil_spike"
     }
