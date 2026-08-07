@@ -1,17 +1,13 @@
 {
     "pack": {
         "pack_format": 15,
-        "supported_formats": {
-            "min_inclusive": 15,
-            "max_inclusive": 34
-        },
         "description": [
             {
                 "text": "☽ Cosmere Enhancements",
                 "color": "gold"
             },
             {
-                "text": "\nv1.0.0",
+                "text": "\nv1.1.0",
                 "color": "green"
             },
             {
