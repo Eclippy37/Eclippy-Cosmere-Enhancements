@@ -1,0 +1,6 @@
+{
+    "death.attack.cosmere.spiked": "%1$s was spiked to death",
+    "death.attack.cosmere.spiked.player": "%1$s was spiked to death by %2$s",
+    "death.attack.cosmere.eat_metal": "%1$s experienced acuphagia",
+    "death.attack.cosmere.eat_metal.player": "%1$s experienced acuphagia whilst fighting %2$s"
+}
